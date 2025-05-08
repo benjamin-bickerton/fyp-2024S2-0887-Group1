@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from torchvision.models import EfficientNet_B0_Weights
 import os
+from tqdm import tqdm
 
 def compute_metrics(y_true, y_pred):
     TP = sum((y_true[i] == 1 and y_pred[i] == 1) for i in range(len(y_true)))
@@ -69,7 +70,7 @@ def train_model(train_dir, val_dir, model_path="./save_weights/best_model.pth", 
     for epoch in range(epochs):
         model.train()
         correct, total = 0, 0
-        for imgs, labels in train_loader:
+        for imgs, labels in tqdm(train_loader, desc=f"Epoch {epoch+1}/{epochs}", leave=False):
             imgs, labels = imgs.to(device), labels.to(device)
             outputs = model(imgs)
             loss = criterion(outputs, labels)
