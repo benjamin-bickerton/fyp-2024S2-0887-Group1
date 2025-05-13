@@ -1,361 +1,361 @@
 filename,true_label,predicted_label,confidence,correct
-8.10.0 - CP 031 MERGED_C_0_1.png,critical,critical,0.9624,correct
-8.10.0 - CP 031 MERGED_C_0_10.png,critical,critical,0.6370,correct
-8.10.0 - CP 031 MERGED_C_0_11.png,critical,critical,0.8825,correct
-8.10.0 - CP 031 MERGED_C_0_12.png,critical,critical,0.8739,correct
-8.10.0 - CP 031 MERGED_C_0_13.png,critical,critical,0.8724,correct
+8.10.0 - CP 031 MERGED_C_0_1.png,critical,critical,0.9626,correct
+8.10.0 - CP 031 MERGED_C_0_10.png,critical,critical,0.6448,correct
+8.10.0 - CP 031 MERGED_C_0_11.png,critical,critical,0.8868,correct
+8.10.0 - CP 031 MERGED_C_0_12.png,critical,critical,0.8804,correct
+8.10.0 - CP 031 MERGED_C_0_13.png,critical,critical,0.8762,correct
 8.10.0 - CP 031 MERGED_C_0_14.png,critical,critical,0.8064,correct
-8.10.0 - CP 031 MERGED_C_0_15.png,critical,critical,0.5472,correct
-8.10.0 - CP 031 MERGED_C_0_16.png,critical,critical,0.8614,correct
-8.10.0 - CP 031 MERGED_C_0_17.png,critical,critical,0.5765,correct
-8.10.0 - CP 031 MERGED_C_0_18.png,critical,critical,0.7502,correct
-8.10.0 - CP 031 MERGED_C_0_19.png,critical,pass,0.5227,wrong
-8.10.0 - CP 031 MERGED_C_0_2.png,critical,critical,0.7563,correct
-8.10.0 - CP 031 MERGED_C_0_20.png,critical,critical,0.6825,correct
-8.10.0 - CP 031 MERGED_C_0_21.png,critical,critical,0.9393,correct
-8.10.0 - CP 031 MERGED_C_0_22.png,critical,critical,0.8418,correct
-8.10.0 - CP 031 MERGED_C_0_23.png,critical,pass,0.7767,wrong
-8.10.0 - CP 031 MERGED_C_0_24.png,critical,critical,0.9079,correct
-8.10.0 - CP 031 MERGED_C_0_25.png,critical,critical,0.7502,correct
-8.10.0 - CP 031 MERGED_C_0_26.png,critical,critical,0.9759,correct
-8.10.0 - CP 031 MERGED_C_0_27.png,critical,critical,0.7656,correct
-8.10.0 - CP 031 MERGED_C_0_28.png,critical,critical,0.9086,correct
-8.10.0 - CP 031 MERGED_C_0_29.png,critical,critical,0.7164,correct
-8.10.0 - CP 031 MERGED_C_0_3.png,critical,critical,0.8636,correct
-8.10.0 - CP 031 MERGED_C_0_30.png,critical,critical,0.9380,correct
-8.10.0 - CP 031 MERGED_C_0_31.png,critical,critical,0.5470,correct
-8.10.0 - CP 031 MERGED_C_0_32.png,critical,critical,0.9392,correct
-8.10.0 - CP 031 MERGED_C_0_33.png,critical,critical,0.6642,correct
-8.10.0 - CP 031 MERGED_C_0_34.png,critical,critical,0.9411,correct
+8.10.0 - CP 031 MERGED_C_0_15.png,critical,critical,0.5626,correct
+8.10.0 - CP 031 MERGED_C_0_16.png,critical,critical,0.8644,correct
+8.10.0 - CP 031 MERGED_C_0_17.png,critical,critical,0.5806,correct
+8.10.0 - CP 031 MERGED_C_0_18.png,critical,critical,0.7520,correct
+8.10.0 - CP 031 MERGED_C_0_19.png,critical,pass,0.5214,wrong
+8.10.0 - CP 031 MERGED_C_0_2.png,critical,critical,0.7618,correct
+8.10.0 - CP 031 MERGED_C_0_20.png,critical,critical,0.6952,correct
+8.10.0 - CP 031 MERGED_C_0_21.png,critical,critical,0.9422,correct
+8.10.0 - CP 031 MERGED_C_0_22.png,critical,critical,0.8446,correct
+8.10.0 - CP 031 MERGED_C_0_23.png,critical,pass,0.7707,wrong
+8.10.0 - CP 031 MERGED_C_0_24.png,critical,critical,0.9111,correct
+8.10.0 - CP 031 MERGED_C_0_25.png,critical,critical,0.7565,correct
+8.10.0 - CP 031 MERGED_C_0_26.png,critical,critical,0.9762,correct
+8.10.0 - CP 031 MERGED_C_0_27.png,critical,critical,0.7698,correct
+8.10.0 - CP 031 MERGED_C_0_28.png,critical,critical,0.9114,correct
+8.10.0 - CP 031 MERGED_C_0_29.png,critical,critical,0.7242,correct
+8.10.0 - CP 031 MERGED_C_0_3.png,critical,critical,0.8670,correct
+8.10.0 - CP 031 MERGED_C_0_30.png,critical,critical,0.9383,correct
+8.10.0 - CP 031 MERGED_C_0_31.png,critical,critical,0.5510,correct
+8.10.0 - CP 031 MERGED_C_0_32.png,critical,critical,0.9394,correct
+8.10.0 - CP 031 MERGED_C_0_33.png,critical,critical,0.6710,correct
+8.10.0 - CP 031 MERGED_C_0_34.png,critical,critical,0.9419,correct
 8.10.0 - CP 031 MERGED_C_0_35.png,critical,critical,0.9392,correct
-8.10.0 - CP 031 MERGED_C_0_36.png,critical,critical,0.8265,correct
-8.10.0 - CP 031 MERGED_C_0_37.png,critical,critical,0.8812,correct
-8.10.0 - CP 031 MERGED_C_0_38.png,critical,critical,0.7933,correct
-8.10.0 - CP 031 MERGED_C_0_39.png,critical,critical,0.9305,correct
-8.10.0 - CP 031 MERGED_C_0_4.png,critical,critical,0.7286,correct
-8.10.0 - CP 031 MERGED_C_0_40.png,critical,critical,0.8390,correct
-8.10.0 - CP 031 MERGED_C_0_41.png,critical,critical,0.8141,correct
-8.10.0 - CP 031 MERGED_C_0_42.png,critical,critical,0.9659,correct
-8.10.0 - CP 031 MERGED_C_0_43.png,critical,critical,0.6191,correct
-8.10.0 - CP 031 MERGED_C_0_44.png,critical,critical,0.9678,correct
-8.10.0 - CP 031 MERGED_C_0_45.png,critical,critical,0.6967,correct
-8.10.0 - CP 031 MERGED_C_0_46.png,critical,critical,0.7398,correct
-8.10.0 - CP 031 MERGED_C_0_47.png,critical,critical,0.6653,correct
-8.10.0 - CP 031 MERGED_C_0_48.png,critical,pass,0.7035,wrong
-8.10.0 - CP 031 MERGED_C_0_49.png,critical,critical,0.9096,correct
-8.10.0 - CP 031 MERGED_C_0_5.png,critical,critical,0.6720,correct
-8.10.0 - CP 031 MERGED_C_0_50.png,critical,critical,0.8560,correct
-8.10.0 - CP 031 MERGED_C_0_51.png,critical,critical,0.7093,correct
-8.10.0 - CP 031 MERGED_C_0_52.png,critical,critical,0.9327,correct
-8.10.0 - CP 031 MERGED_C_0_53.png,critical,critical,0.6451,correct
-8.10.0 - CP 031 MERGED_C_0_54.png,critical,critical,0.6303,correct
-8.10.0 - CP 031 MERGED_C_0_55.png,critical,critical,0.8599,correct
-8.10.0 - CP 031 MERGED_C_0_56.png,critical,critical,0.8451,correct
-8.10.0 - CP 031 MERGED_C_0_57.png,critical,critical,0.6241,correct
-8.10.0 - CP 031 MERGED_C_0_58.png,critical,pass,0.5245,wrong
-8.10.0 - CP 031 MERGED_C_0_59.png,critical,critical,0.8873,correct
-8.10.0 - CP 031 MERGED_C_0_6.png,critical,critical,0.9094,correct
-8.10.0 - CP 031 MERGED_C_0_60.png,critical,critical,0.8207,correct
-8.10.0 - CP 031 MERGED_C_0_61.png,critical,critical,0.6588,correct
-8.10.0 - CP 031 MERGED_C_0_62.png,critical,pass,0.5297,wrong
-8.10.0 - CP 031 MERGED_C_0_63.png,critical,critical,0.8619,correct
-8.10.0 - CP 031 MERGED_C_0_64.png,critical,critical,0.8232,correct
-8.10.0 - CP 031 MERGED_C_0_65.png,critical,pass,0.6226,wrong
+8.10.0 - CP 031 MERGED_C_0_36.png,critical,critical,0.8315,correct
+8.10.0 - CP 031 MERGED_C_0_37.png,critical,critical,0.8828,correct
+8.10.0 - CP 031 MERGED_C_0_38.png,critical,critical,0.7974,correct
+8.10.0 - CP 031 MERGED_C_0_39.png,critical,critical,0.9314,correct
+8.10.0 - CP 031 MERGED_C_0_4.png,critical,critical,0.7353,correct
+8.10.0 - CP 031 MERGED_C_0_40.png,critical,critical,0.8427,correct
+8.10.0 - CP 031 MERGED_C_0_41.png,critical,critical,0.8169,correct
+8.10.0 - CP 031 MERGED_C_0_42.png,critical,critical,0.9665,correct
+8.10.0 - CP 031 MERGED_C_0_43.png,critical,critical,0.6216,correct
+8.10.0 - CP 031 MERGED_C_0_44.png,critical,critical,0.9681,correct
+8.10.0 - CP 031 MERGED_C_0_45.png,critical,critical,0.7047,correct
+8.10.0 - CP 031 MERGED_C_0_46.png,critical,critical,0.7475,correct
+8.10.0 - CP 031 MERGED_C_0_47.png,critical,critical,0.6733,correct
+8.10.0 - CP 031 MERGED_C_0_48.png,critical,pass,0.6978,wrong
+8.10.0 - CP 031 MERGED_C_0_49.png,critical,critical,0.9113,correct
+8.10.0 - CP 031 MERGED_C_0_5.png,critical,critical,0.6800,correct
+8.10.0 - CP 031 MERGED_C_0_50.png,critical,critical,0.8590,correct
+8.10.0 - CP 031 MERGED_C_0_51.png,critical,critical,0.7233,correct
+8.10.0 - CP 031 MERGED_C_0_52.png,critical,critical,0.9341,correct
+8.10.0 - CP 031 MERGED_C_0_53.png,critical,critical,0.6494,correct
+8.10.0 - CP 031 MERGED_C_0_54.png,critical,critical,0.6410,correct
+8.10.0 - CP 031 MERGED_C_0_55.png,critical,critical,0.8625,correct
+8.10.0 - CP 031 MERGED_C_0_56.png,critical,critical,0.8460,correct
+8.10.0 - CP 031 MERGED_C_0_57.png,critical,critical,0.6286,correct
+8.10.0 - CP 031 MERGED_C_0_58.png,critical,pass,0.5156,wrong
+8.10.0 - CP 031 MERGED_C_0_59.png,critical,critical,0.8894,correct
+8.10.0 - CP 031 MERGED_C_0_6.png,critical,critical,0.9101,correct
+8.10.0 - CP 031 MERGED_C_0_60.png,critical,critical,0.8224,correct
+8.10.0 - CP 031 MERGED_C_0_61.png,critical,critical,0.6672,correct
+8.10.0 - CP 031 MERGED_C_0_62.png,critical,pass,0.5169,wrong
+8.10.0 - CP 031 MERGED_C_0_63.png,critical,critical,0.8642,correct
+8.10.0 - CP 031 MERGED_C_0_64.png,critical,critical,0.8245,correct
+8.10.0 - CP 031 MERGED_C_0_65.png,critical,pass,0.6189,wrong
 8.10.0 - CP 031 MERGED_C_0_66.png,critical,critical,0.9797,correct
-8.10.0 - CP 031 MERGED_C_0_67.png,critical,critical,0.7373,correct
-8.10.0 - CP 031 MERGED_C_0_68.png,critical,critical,0.7152,correct
-8.10.0 - CP 031 MERGED_C_0_69.png,critical,critical,0.8157,correct
-8.10.0 - CP 031 MERGED_C_0_7.png,critical,critical,0.8176,correct
-8.10.0 - CP 031 MERGED_C_0_70.png,critical,pass,0.7250,wrong
-8.10.0 - CP 031 MERGED_C_0_71.png,critical,critical,0.8384,correct
-8.10.0 - CP 031 MERGED_C_0_72.png,critical,critical,0.7082,correct
-8.10.0 - CP 031 MERGED_C_0_73.png,critical,pass,0.6510,wrong
-8.10.0 - CP 031 MERGED_C_0_74.png,critical,critical,0.7855,correct
-8.10.0 - CP 031 MERGED_C_0_75.png,critical,critical,0.9293,correct
-8.10.0 - CP 031 MERGED_C_0_76.png,critical,critical,0.7544,correct
-8.10.0 - CP 031 MERGED_C_0_77.png,critical,critical,0.6725,correct
-8.10.0 - CP 031 MERGED_C_0_78.png,critical,critical,0.5468,correct
-8.10.0 - CP 031 MERGED_C_0_79.png,critical,critical,0.7138,correct
-8.10.0 - CP 031 MERGED_C_0_8.png,critical,critical,0.8667,correct
-8.10.0 - CP 031 MERGED_C_0_80.png,critical,critical,0.9167,correct
-8.10.0 - CP 031 MERGED_C_0_9.png,critical,critical,0.9697,correct
-8.9.0 - CP 04 MERGED_C_0_1.png,critical,critical,0.8012,correct
-8.9.0 - CP 04 MERGED_C_0_10.png,critical,critical,0.9718,correct
-8.9.0 - CP 04 MERGED_C_0_100.png,critical,critical,0.9876,correct
-8.9.0 - CP 04 MERGED_C_0_11.png,critical,critical,0.9683,correct
-8.9.0 - CP 04 MERGED_C_0_12.png,critical,critical,0.7469,correct
-8.9.0 - CP 04 MERGED_C_0_13.png,critical,critical,0.9852,correct
-8.9.0 - CP 04 MERGED_C_0_14.png,critical,critical,0.5653,correct
-8.9.0 - CP 04 MERGED_C_0_15.png,critical,critical,0.9448,correct
-8.9.0 - CP 04 MERGED_C_0_16.png,critical,critical,0.7947,correct
-8.9.0 - CP 04 MERGED_C_0_17.png,critical,critical,0.9665,correct
-8.9.0 - CP 04 MERGED_C_0_18.png,critical,critical,0.6503,correct
-8.9.0 - CP 04 MERGED_C_0_19.png,critical,critical,0.9883,correct
-8.9.0 - CP 04 MERGED_C_0_2.png,critical,critical,0.9380,correct
-8.9.0 - CP 04 MERGED_C_0_20.png,critical,critical,0.9159,correct
-8.9.0 - CP 04 MERGED_C_0_21.png,critical,critical,0.9847,correct
-8.9.0 - CP 04 MERGED_C_0_22.png,critical,critical,0.8987,correct
-8.9.0 - CP 04 MERGED_C_0_23.png,critical,critical,0.8212,correct
+8.10.0 - CP 031 MERGED_C_0_67.png,critical,critical,0.7431,correct
+8.10.0 - CP 031 MERGED_C_0_68.png,critical,critical,0.7197,correct
+8.10.0 - CP 031 MERGED_C_0_69.png,critical,critical,0.8197,correct
+8.10.0 - CP 031 MERGED_C_0_7.png,critical,critical,0.8233,correct
+8.10.0 - CP 031 MERGED_C_0_70.png,critical,pass,0.7180,wrong
+8.10.0 - CP 031 MERGED_C_0_71.png,critical,critical,0.8412,correct
+8.10.0 - CP 031 MERGED_C_0_72.png,critical,critical,0.7181,correct
+8.10.0 - CP 031 MERGED_C_0_73.png,critical,pass,0.6433,wrong
+8.10.0 - CP 031 MERGED_C_0_74.png,critical,critical,0.7875,correct
+8.10.0 - CP 031 MERGED_C_0_75.png,critical,critical,0.9324,correct
+8.10.0 - CP 031 MERGED_C_0_76.png,critical,critical,0.7559,correct
+8.10.0 - CP 031 MERGED_C_0_77.png,critical,critical,0.6788,correct
+8.10.0 - CP 031 MERGED_C_0_78.png,critical,critical,0.5461,correct
+8.10.0 - CP 031 MERGED_C_0_79.png,critical,critical,0.7212,correct
+8.10.0 - CP 031 MERGED_C_0_8.png,critical,critical,0.8732,correct
+8.10.0 - CP 031 MERGED_C_0_80.png,critical,critical,0.9184,correct
+8.10.0 - CP 031 MERGED_C_0_9.png,critical,critical,0.9703,correct
+8.9.0 - CP 04 MERGED_C_0_1.png,critical,critical,0.8044,correct
+8.9.0 - CP 04 MERGED_C_0_10.png,critical,critical,0.9725,correct
+8.9.0 - CP 04 MERGED_C_0_100.png,critical,critical,0.9878,correct
+8.9.0 - CP 04 MERGED_C_0_11.png,critical,critical,0.9677,correct
+8.9.0 - CP 04 MERGED_C_0_12.png,critical,critical,0.7329,correct
+8.9.0 - CP 04 MERGED_C_0_13.png,critical,critical,0.9854,correct
+8.9.0 - CP 04 MERGED_C_0_14.png,critical,critical,0.5382,correct
+8.9.0 - CP 04 MERGED_C_0_15.png,critical,critical,0.9427,correct
+8.9.0 - CP 04 MERGED_C_0_16.png,critical,critical,0.7889,correct
+8.9.0 - CP 04 MERGED_C_0_17.png,critical,critical,0.9675,correct
+8.9.0 - CP 04 MERGED_C_0_18.png,critical,critical,0.6387,correct
+8.9.0 - CP 04 MERGED_C_0_19.png,critical,critical,0.9884,correct
+8.9.0 - CP 04 MERGED_C_0_2.png,critical,critical,0.9404,correct
+8.9.0 - CP 04 MERGED_C_0_20.png,critical,critical,0.9180,correct
+8.9.0 - CP 04 MERGED_C_0_21.png,critical,critical,0.9851,correct
+8.9.0 - CP 04 MERGED_C_0_22.png,critical,critical,0.9012,correct
+8.9.0 - CP 04 MERGED_C_0_23.png,critical,critical,0.8185,correct
 8.9.0 - CP 04 MERGED_C_0_24.png,critical,critical,0.9774,correct
-8.9.0 - CP 04 MERGED_C_0_25.png,critical,critical,0.9321,correct
-8.9.0 - CP 04 MERGED_C_0_26.png,critical,critical,0.9804,correct
-8.9.0 - CP 04 MERGED_C_0_27.png,critical,pass,0.7410,wrong
-8.9.0 - CP 04 MERGED_C_0_28.png,critical,critical,0.9906,correct
-8.9.0 - CP 04 MERGED_C_0_29.png,critical,critical,0.8921,correct
-8.9.0 - CP 04 MERGED_C_0_3.png,critical,critical,0.9250,correct
-8.9.0 - CP 04 MERGED_C_0_30.png,critical,pass,0.8869,wrong
-8.9.0 - CP 04 MERGED_C_0_31.png,critical,critical,0.9798,correct
-8.9.0 - CP 04 MERGED_C_0_32.png,critical,pass,0.6129,wrong
-8.9.0 - CP 04 MERGED_C_0_33.png,critical,critical,0.9695,correct
-8.9.0 - CP 04 MERGED_C_0_34.png,critical,critical,0.8361,correct
-8.9.0 - CP 04 MERGED_C_0_35.png,critical,critical,0.7270,correct
-8.9.0 - CP 04 MERGED_C_0_36.png,critical,pass,0.8857,wrong
-8.9.0 - CP 04 MERGED_C_0_37.png,critical,critical,0.9684,correct
-8.9.0 - CP 04 MERGED_C_0_38.png,critical,critical,0.9830,correct
-8.9.0 - CP 04 MERGED_C_0_39.png,critical,critical,0.7714,correct
-8.9.0 - CP 04 MERGED_C_0_4.png,critical,critical,0.9101,correct
+8.9.0 - CP 04 MERGED_C_0_25.png,critical,critical,0.9336,correct
+8.9.0 - CP 04 MERGED_C_0_26.png,critical,critical,0.9807,correct
+8.9.0 - CP 04 MERGED_C_0_27.png,critical,pass,0.7571,wrong
+8.9.0 - CP 04 MERGED_C_0_28.png,critical,critical,0.9908,correct
+8.9.0 - CP 04 MERGED_C_0_29.png,critical,critical,0.8896,correct
+8.9.0 - CP 04 MERGED_C_0_3.png,critical,critical,0.9261,correct
+8.9.0 - CP 04 MERGED_C_0_30.png,critical,pass,0.8899,wrong
+8.9.0 - CP 04 MERGED_C_0_31.png,critical,critical,0.9808,correct
+8.9.0 - CP 04 MERGED_C_0_32.png,critical,pass,0.6171,wrong
+8.9.0 - CP 04 MERGED_C_0_33.png,critical,critical,0.9699,correct
+8.9.0 - CP 04 MERGED_C_0_34.png,critical,critical,0.8433,correct
+8.9.0 - CP 04 MERGED_C_0_35.png,critical,critical,0.7242,correct
+8.9.0 - CP 04 MERGED_C_0_36.png,critical,pass,0.8944,wrong
+8.9.0 - CP 04 MERGED_C_0_37.png,critical,critical,0.9692,correct
+8.9.0 - CP 04 MERGED_C_0_38.png,critical,critical,0.9834,correct
+8.9.0 - CP 04 MERGED_C_0_39.png,critical,critical,0.7671,correct
+8.9.0 - CP 04 MERGED_C_0_4.png,critical,critical,0.9122,correct
 8.9.0 - CP 04 MERGED_C_0_40.png,critical,critical,0.9908,correct
-8.9.0 - CP 04 MERGED_C_0_41.png,critical,critical,0.6606,correct
-8.9.0 - CP 04 MERGED_C_0_42.png,critical,critical,0.9686,correct
-8.9.0 - CP 04 MERGED_C_0_43.png,critical,critical,0.9897,correct
-8.9.0 - CP 04 MERGED_C_0_44.png,critical,critical,0.8119,correct
-8.9.0 - CP 04 MERGED_C_0_45.png,critical,critical,0.9717,correct
-8.9.0 - CP 04 MERGED_C_0_46.png,critical,critical,0.9948,correct
-8.9.0 - CP 04 MERGED_C_0_47.png,critical,critical,0.5619,correct
-8.9.0 - CP 04 MERGED_C_0_48.png,critical,critical,0.9081,correct
-8.9.0 - CP 04 MERGED_C_0_49.png,critical,critical,0.6437,correct
-8.9.0 - CP 04 MERGED_C_0_5.png,critical,pass,0.8282,wrong
-8.9.0 - CP 04 MERGED_C_0_50.png,critical,critical,0.8538,correct
-8.9.0 - CP 04 MERGED_C_0_51.png,critical,critical,0.8107,correct
-8.9.0 - CP 04 MERGED_C_0_52.png,critical,critical,0.9733,correct
-8.9.0 - CP 04 MERGED_C_0_53.png,critical,pass,0.7823,wrong
-8.9.0 - CP 04 MERGED_C_0_54.png,critical,critical,0.9530,correct
-8.9.0 - CP 04 MERGED_C_0_55.png,critical,critical,0.9569,correct
-8.9.0 - CP 04 MERGED_C_0_56.png,critical,critical,0.8811,correct
-8.9.0 - CP 04 MERGED_C_0_57.png,critical,pass,0.8885,wrong
-8.9.0 - CP 04 MERGED_C_0_58.png,critical,critical,0.9765,correct
-8.9.0 - CP 04 MERGED_C_0_59.png,critical,critical,0.9609,correct
-8.9.0 - CP 04 MERGED_C_0_6.png,critical,critical,0.8174,correct
-8.9.0 - CP 04 MERGED_C_0_60.png,critical,critical,0.7085,correct
-8.9.0 - CP 04 MERGED_C_0_61.png,critical,critical,0.9351,correct
-8.9.0 - CP 04 MERGED_C_0_62.png,critical,critical,0.9532,correct
-8.9.0 - CP 04 MERGED_C_0_63.png,critical,critical,0.9425,correct
-8.9.0 - CP 04 MERGED_C_0_64.png,critical,critical,0.9841,correct
+8.9.0 - CP 04 MERGED_C_0_41.png,critical,critical,0.6618,correct
+8.9.0 - CP 04 MERGED_C_0_42.png,critical,critical,0.9674,correct
+8.9.0 - CP 04 MERGED_C_0_43.png,critical,critical,0.9895,correct
+8.9.0 - CP 04 MERGED_C_0_44.png,critical,critical,0.8142,correct
+8.9.0 - CP 04 MERGED_C_0_45.png,critical,critical,0.9722,correct
+8.9.0 - CP 04 MERGED_C_0_46.png,critical,critical,0.9949,correct
+8.9.0 - CP 04 MERGED_C_0_47.png,critical,critical,0.5547,correct
+8.9.0 - CP 04 MERGED_C_0_48.png,critical,critical,0.9121,correct
+8.9.0 - CP 04 MERGED_C_0_49.png,critical,critical,0.6206,correct
+8.9.0 - CP 04 MERGED_C_0_5.png,critical,pass,0.8570,wrong
+8.9.0 - CP 04 MERGED_C_0_50.png,critical,critical,0.8457,correct
+8.9.0 - CP 04 MERGED_C_0_51.png,critical,critical,0.8121,correct
+8.9.0 - CP 04 MERGED_C_0_52.png,critical,critical,0.9731,correct
+8.9.0 - CP 04 MERGED_C_0_53.png,critical,pass,0.7697,wrong
+8.9.0 - CP 04 MERGED_C_0_54.png,critical,critical,0.9500,correct
+8.9.0 - CP 04 MERGED_C_0_55.png,critical,critical,0.9586,correct
+8.9.0 - CP 04 MERGED_C_0_56.png,critical,critical,0.8863,correct
+8.9.0 - CP 04 MERGED_C_0_57.png,critical,pass,0.8907,wrong
+8.9.0 - CP 04 MERGED_C_0_58.png,critical,critical,0.9772,correct
+8.9.0 - CP 04 MERGED_C_0_59.png,critical,critical,0.9614,correct
+8.9.0 - CP 04 MERGED_C_0_6.png,critical,critical,0.8193,correct
+8.9.0 - CP 04 MERGED_C_0_60.png,critical,critical,0.7198,correct
+8.9.0 - CP 04 MERGED_C_0_61.png,critical,critical,0.9359,correct
+8.9.0 - CP 04 MERGED_C_0_62.png,critical,critical,0.9539,correct
+8.9.0 - CP 04 MERGED_C_0_63.png,critical,critical,0.9426,correct
+8.9.0 - CP 04 MERGED_C_0_64.png,critical,critical,0.9845,correct
 8.9.0 - CP 04 MERGED_C_0_65.png,critical,critical,0.9789,correct
-8.9.0 - CP 04 MERGED_C_0_66.png,critical,critical,0.8091,correct
-8.9.0 - CP 04 MERGED_C_0_67.png,critical,critical,0.7562,correct
-8.9.0 - CP 04 MERGED_C_0_68.png,critical,critical,0.8849,correct
-8.9.0 - CP 04 MERGED_C_0_69.png,critical,critical,0.9947,correct
-8.9.0 - CP 04 MERGED_C_0_7.png,critical,critical,0.9728,correct
-8.9.0 - CP 04 MERGED_C_0_70.png,critical,critical,0.8242,correct
-8.9.0 - CP 04 MERGED_C_0_71.png,critical,critical,0.9892,correct
-8.9.0 - CP 04 MERGED_C_0_72.png,critical,critical,0.7130,correct
-8.9.0 - CP 04 MERGED_C_0_73.png,critical,critical,0.8432,correct
-8.9.0 - CP 04 MERGED_C_0_74.png,critical,critical,0.9379,correct
-8.9.0 - CP 04 MERGED_C_0_75.png,critical,pass,0.8155,wrong
-8.9.0 - CP 04 MERGED_C_0_76.png,critical,critical,0.9249,correct
-8.9.0 - CP 04 MERGED_C_0_77.png,critical,pass,0.8882,wrong
-8.9.0 - CP 04 MERGED_C_0_78.png,critical,critical,0.9730,correct
-8.9.0 - CP 04 MERGED_C_0_79.png,critical,critical,0.9778,correct
-8.9.0 - CP 04 MERGED_C_0_8.png,critical,pass,0.8551,wrong
-8.9.0 - CP 04 MERGED_C_0_80.png,critical,critical,0.9529,correct
-8.9.0 - CP 04 MERGED_C_0_81.png,critical,pass,0.6170,wrong
-8.9.0 - CP 04 MERGED_C_0_82.png,critical,critical,0.8362,correct
-8.9.0 - CP 04 MERGED_C_0_83.png,critical,critical,0.9901,correct
-8.9.0 - CP 04 MERGED_C_0_84.png,critical,pass,0.8756,wrong
+8.9.0 - CP 04 MERGED_C_0_66.png,critical,critical,0.8054,correct
+8.9.0 - CP 04 MERGED_C_0_67.png,critical,critical,0.7657,correct
+8.9.0 - CP 04 MERGED_C_0_68.png,critical,critical,0.8846,correct
+8.9.0 - CP 04 MERGED_C_0_69.png,critical,critical,0.9948,correct
+8.9.0 - CP 04 MERGED_C_0_7.png,critical,critical,0.9733,correct
+8.9.0 - CP 04 MERGED_C_0_70.png,critical,critical,0.8200,correct
+8.9.0 - CP 04 MERGED_C_0_71.png,critical,critical,0.9895,correct
+8.9.0 - CP 04 MERGED_C_0_72.png,critical,critical,0.7047,correct
+8.9.0 - CP 04 MERGED_C_0_73.png,critical,critical,0.8437,correct
+8.9.0 - CP 04 MERGED_C_0_74.png,critical,critical,0.9403,correct
+8.9.0 - CP 04 MERGED_C_0_75.png,critical,pass,0.8154,wrong
+8.9.0 - CP 04 MERGED_C_0_76.png,critical,critical,0.9233,correct
+8.9.0 - CP 04 MERGED_C_0_77.png,critical,pass,0.8961,wrong
+8.9.0 - CP 04 MERGED_C_0_78.png,critical,critical,0.9735,correct
+8.9.0 - CP 04 MERGED_C_0_79.png,critical,critical,0.9775,correct
+8.9.0 - CP 04 MERGED_C_0_8.png,critical,pass,0.8585,wrong
+8.9.0 - CP 04 MERGED_C_0_80.png,critical,critical,0.9498,correct
+8.9.0 - CP 04 MERGED_C_0_81.png,critical,pass,0.6184,wrong
+8.9.0 - CP 04 MERGED_C_0_82.png,critical,critical,0.8393,correct
+8.9.0 - CP 04 MERGED_C_0_83.png,critical,critical,0.9902,correct
+8.9.0 - CP 04 MERGED_C_0_84.png,critical,pass,0.8777,wrong
 8.9.0 - CP 04 MERGED_C_0_85.png,critical,critical,0.9898,correct
-8.9.0 - CP 04 MERGED_C_0_86.png,critical,critical,0.7840,correct
-8.9.0 - CP 04 MERGED_C_0_87.png,critical,critical,0.9734,correct
-8.9.0 - CP 04 MERGED_C_0_88.png,critical,critical,0.9282,correct
-8.9.0 - CP 04 MERGED_C_0_89.png,critical,critical,0.5054,correct
-8.9.0 - CP 04 MERGED_C_0_9.png,critical,critical,0.9471,correct
-8.9.0 - CP 04 MERGED_C_0_90.png,critical,critical,0.9792,correct
-8.9.0 - CP 04 MERGED_C_0_91.png,critical,pass,0.6731,wrong
-8.9.0 - CP 04 MERGED_C_0_92.png,critical,critical,0.9487,correct
-8.9.0 - CP 04 MERGED_C_0_93.png,critical,pass,0.8870,wrong
-8.9.0 - CP 04 MERGED_C_0_94.png,critical,critical,0.8851,correct
-8.9.0 - CP 04 MERGED_C_0_95.png,critical,pass,0.6734,wrong
-8.9.0 - CP 04 MERGED_C_0_96.png,critical,pass,0.8555,wrong
-8.9.0 - CP 04 MERGED_C_0_97.png,critical,critical,0.9295,correct
+8.9.0 - CP 04 MERGED_C_0_86.png,critical,critical,0.7877,correct
+8.9.0 - CP 04 MERGED_C_0_87.png,critical,critical,0.9743,correct
+8.9.0 - CP 04 MERGED_C_0_88.png,critical,critical,0.9292,correct
+8.9.0 - CP 04 MERGED_C_0_89.png,critical,pass,0.5028,wrong
+8.9.0 - CP 04 MERGED_C_0_9.png,critical,critical,0.9460,correct
+8.9.0 - CP 04 MERGED_C_0_90.png,critical,critical,0.9791,correct
+8.9.0 - CP 04 MERGED_C_0_91.png,critical,pass,0.6741,wrong
+8.9.0 - CP 04 MERGED_C_0_92.png,critical,critical,0.9490,correct
+8.9.0 - CP 04 MERGED_C_0_93.png,critical,pass,0.8804,wrong
+8.9.0 - CP 04 MERGED_C_0_94.png,critical,critical,0.8865,correct
+8.9.0 - CP 04 MERGED_C_0_95.png,critical,pass,0.6716,wrong
+8.9.0 - CP 04 MERGED_C_0_96.png,critical,pass,0.8746,wrong
+8.9.0 - CP 04 MERGED_C_0_97.png,critical,critical,0.9292,correct
 8.9.0 - CP 04 MERGED_C_0_98.png,critical,critical,0.9926,correct
-8.9.0 - CP 04 MERGED_C_0_99.png,critical,critical,0.5391,correct
-6. Car Park base model MERGED_P_0_1.png,pass,pass,0.8728,correct
-6. Car Park base model MERGED_P_0_10.png,pass,pass,0.9942,correct
-6. Car Park base model MERGED_P_0_100.png,pass,pass,0.9984,correct
-6. Car Park base model MERGED_P_0_11.png,pass,critical,0.8804,wrong
-6. Car Park base model MERGED_P_0_12.png,pass,pass,0.7646,correct
-6. Car Park base model MERGED_P_0_13.png,pass,pass,0.7928,correct
-6. Car Park base model MERGED_P_0_14.png,pass,pass,0.9479,correct
-6. Car Park base model MERGED_P_0_15.png,pass,critical,0.8909,wrong
-6. Car Park base model MERGED_P_0_16.png,pass,critical,0.6018,wrong
-6. Car Park base model MERGED_P_0_17.png,pass,critical,0.9749,wrong
-6. Car Park base model MERGED_P_0_18.png,pass,critical,0.9391,wrong
-6. Car Park base model MERGED_P_0_19.png,pass,critical,0.5607,wrong
-6. Car Park base model MERGED_P_0_2.png,pass,pass,0.9834,correct
-6. Car Park base model MERGED_P_0_20.png,pass,critical,0.5867,wrong
-6. Car Park base model MERGED_P_0_21.png,pass,critical,0.6499,wrong
-6. Car Park base model MERGED_P_0_22.png,pass,critical,0.9203,wrong
-6. Car Park base model MERGED_P_0_23.png,pass,pass,0.5038,correct
-6. Car Park base model MERGED_P_0_24.png,pass,critical,0.5738,wrong
-6. Car Park base model MERGED_P_0_25.png,pass,pass,0.9807,correct
-6. Car Park base model MERGED_P_0_26.png,pass,critical,0.5995,wrong
-6. Car Park base model MERGED_P_0_27.png,pass,pass,0.9608,correct
-6. Car Park base model MERGED_P_0_28.png,pass,critical,0.9049,wrong
-6. Car Park base model MERGED_P_0_29.png,pass,pass,0.9683,correct
-6. Car Park base model MERGED_P_0_3.png,pass,pass,0.8809,correct
-6. Car Park base model MERGED_P_0_30.png,pass,critical,0.6340,wrong
-6. Car Park base model MERGED_P_0_31.png,pass,critical,0.6001,wrong
-6. Car Park base model MERGED_P_0_32.png,pass,pass,0.9204,correct
-6. Car Park base model MERGED_P_0_33.png,pass,critical,0.6125,wrong
-6. Car Park base model MERGED_P_0_34.png,pass,pass,0.7257,correct
-6. Car Park base model MERGED_P_0_35.png,pass,pass,0.7543,correct
-6. Car Park base model MERGED_P_0_36.png,pass,critical,0.9533,wrong
-6. Car Park base model MERGED_P_0_37.png,pass,pass,0.6619,correct
-6. Car Park base model MERGED_P_0_38.png,pass,critical,0.9530,wrong
-6. Car Park base model MERGED_P_0_39.png,pass,critical,0.8984,wrong
-6. Car Park base model MERGED_P_0_4.png,pass,pass,0.8438,correct
-6. Car Park base model MERGED_P_0_40.png,pass,pass,0.9706,correct
-6. Car Park base model MERGED_P_0_41.png,pass,critical,0.8320,wrong
-6. Car Park base model MERGED_P_0_42.png,pass,critical,0.9840,wrong
-6. Car Park base model MERGED_P_0_43.png,pass,critical,0.9735,wrong
-6. Car Park base model MERGED_P_0_44.png,pass,pass,0.9972,correct
-6. Car Park base model MERGED_P_0_45.png,pass,pass,0.5341,correct
-6. Car Park base model MERGED_P_0_46.png,pass,critical,0.8899,wrong
-6. Car Park base model MERGED_P_0_47.png,pass,pass,0.8186,correct
-6. Car Park base model MERGED_P_0_48.png,pass,critical,0.8366,wrong
-6. Car Park base model MERGED_P_0_49.png,pass,critical,0.9869,wrong
-6. Car Park base model MERGED_P_0_5.png,pass,pass,0.6814,correct
-6. Car Park base model MERGED_P_0_50.png,pass,pass,0.5057,correct
-6. Car Park base model MERGED_P_0_51.png,pass,critical,0.8841,wrong
-6. Car Park base model MERGED_P_0_52.png,pass,pass,0.8355,correct
-6. Car Park base model MERGED_P_0_53.png,pass,critical,0.9615,wrong
-6. Car Park base model MERGED_P_0_54.png,pass,pass,0.9904,correct
-6. Car Park base model MERGED_P_0_55.png,pass,pass,0.9460,correct
-6. Car Park base model MERGED_P_0_56.png,pass,critical,0.7768,wrong
-6. Car Park base model MERGED_P_0_57.png,pass,critical,0.5871,wrong
+8.9.0 - CP 04 MERGED_C_0_99.png,critical,critical,0.5332,correct
+6. Car Park base model MERGED_P_0_1.png,pass,pass,0.8809,correct
+6. Car Park base model MERGED_P_0_10.png,pass,pass,0.9952,correct
+6. Car Park base model MERGED_P_0_100.png,pass,pass,0.9987,correct
+6. Car Park base model MERGED_P_0_11.png,pass,critical,0.8773,wrong
+6. Car Park base model MERGED_P_0_12.png,pass,pass,0.7654,correct
+6. Car Park base model MERGED_P_0_13.png,pass,pass,0.8042,correct
+6. Car Park base model MERGED_P_0_14.png,pass,pass,0.9505,correct
+6. Car Park base model MERGED_P_0_15.png,pass,critical,0.8904,wrong
+6. Car Park base model MERGED_P_0_16.png,pass,critical,0.5780,wrong
+6. Car Park base model MERGED_P_0_17.png,pass,critical,0.9748,wrong
+6. Car Park base model MERGED_P_0_18.png,pass,critical,0.9380,wrong
+6. Car Park base model MERGED_P_0_19.png,pass,critical,0.5511,wrong
+6. Car Park base model MERGED_P_0_2.png,pass,pass,0.9854,correct
+6. Car Park base model MERGED_P_0_20.png,pass,critical,0.5637,wrong
+6. Car Park base model MERGED_P_0_21.png,pass,critical,0.6410,wrong
+6. Car Park base model MERGED_P_0_22.png,pass,critical,0.9162,wrong
+6. Car Park base model MERGED_P_0_23.png,pass,pass,0.5164,correct
+6. Car Park base model MERGED_P_0_24.png,pass,critical,0.5561,wrong
+6. Car Park base model MERGED_P_0_25.png,pass,pass,0.9833,correct
+6. Car Park base model MERGED_P_0_26.png,pass,critical,0.5887,wrong
+6. Car Park base model MERGED_P_0_27.png,pass,pass,0.9637,correct
+6. Car Park base model MERGED_P_0_28.png,pass,critical,0.9082,wrong
+6. Car Park base model MERGED_P_0_29.png,pass,pass,0.9708,correct
+6. Car Park base model MERGED_P_0_3.png,pass,pass,0.8865,correct
+6. Car Park base model MERGED_P_0_30.png,pass,critical,0.6202,wrong
+6. Car Park base model MERGED_P_0_31.png,pass,critical,0.5865,wrong
+6. Car Park base model MERGED_P_0_32.png,pass,pass,0.9207,correct
+6. Car Park base model MERGED_P_0_33.png,pass,critical,0.6016,wrong
+6. Car Park base model MERGED_P_0_34.png,pass,pass,0.7352,correct
+6. Car Park base model MERGED_P_0_35.png,pass,pass,0.7684,correct
+6. Car Park base model MERGED_P_0_36.png,pass,critical,0.9525,wrong
+6. Car Park base model MERGED_P_0_37.png,pass,pass,0.6703,correct
+6. Car Park base model MERGED_P_0_38.png,pass,critical,0.9535,wrong
+6. Car Park base model MERGED_P_0_39.png,pass,critical,0.8960,wrong
+6. Car Park base model MERGED_P_0_4.png,pass,pass,0.8567,correct
+6. Car Park base model MERGED_P_0_40.png,pass,pass,0.9729,correct
+6. Car Park base model MERGED_P_0_41.png,pass,critical,0.8194,wrong
+6. Car Park base model MERGED_P_0_42.png,pass,critical,0.9838,wrong
+6. Car Park base model MERGED_P_0_43.png,pass,critical,0.9737,wrong
+6. Car Park base model MERGED_P_0_44.png,pass,pass,0.9974,correct
+6. Car Park base model MERGED_P_0_45.png,pass,pass,0.5400,correct
+6. Car Park base model MERGED_P_0_46.png,pass,critical,0.8860,wrong
+6. Car Park base model MERGED_P_0_47.png,pass,pass,0.8367,correct
+6. Car Park base model MERGED_P_0_48.png,pass,critical,0.8278,wrong
+6. Car Park base model MERGED_P_0_49.png,pass,critical,0.9871,wrong
+6. Car Park base model MERGED_P_0_5.png,pass,pass,0.6908,correct
+6. Car Park base model MERGED_P_0_50.png,pass,pass,0.5121,correct
+6. Car Park base model MERGED_P_0_51.png,pass,critical,0.8676,wrong
+6. Car Park base model MERGED_P_0_52.png,pass,pass,0.8375,correct
+6. Car Park base model MERGED_P_0_53.png,pass,critical,0.9610,wrong
+6. Car Park base model MERGED_P_0_54.png,pass,pass,0.9916,correct
+6. Car Park base model MERGED_P_0_55.png,pass,pass,0.9572,correct
+6. Car Park base model MERGED_P_0_56.png,pass,critical,0.7628,wrong
+6. Car Park base model MERGED_P_0_57.png,pass,critical,0.5918,wrong
 6. Car Park base model MERGED_P_0_58.png,pass,pass,0.9990,correct
-6. Car Park base model MERGED_P_0_59.png,pass,critical,0.6666,wrong
-6. Car Park base model MERGED_P_0_6.png,pass,pass,0.7630,correct
-6. Car Park base model MERGED_P_0_60.png,pass,critical,0.7984,wrong
-6. Car Park base model MERGED_P_0_61.png,pass,critical,0.9487,wrong
-6. Car Park base model MERGED_P_0_62.png,pass,pass,0.9947,correct
-6. Car Park base model MERGED_P_0_63.png,pass,critical,0.7994,wrong
-6. Car Park base model MERGED_P_0_64.png,pass,critical,0.7834,wrong
-6. Car Park base model MERGED_P_0_65.png,pass,pass,0.5628,correct
-6. Car Park base model MERGED_P_0_66.png,pass,pass,0.7252,correct
-6. Car Park base model MERGED_P_0_67.png,pass,pass,0.6917,correct
-6. Car Park base model MERGED_P_0_68.png,pass,critical,0.9815,wrong
-6. Car Park base model MERGED_P_0_69.png,pass,critical,0.9388,wrong
-6. Car Park base model MERGED_P_0_7.png,pass,critical,0.9452,wrong
-6. Car Park base model MERGED_P_0_70.png,pass,pass,0.9101,correct
-6. Car Park base model MERGED_P_0_71.png,pass,critical,0.6363,wrong
-6. Car Park base model MERGED_P_0_72.png,pass,critical,0.9041,wrong
-6. Car Park base model MERGED_P_0_73.png,pass,critical,0.7036,wrong
-6. Car Park base model MERGED_P_0_74.png,pass,critical,0.8134,wrong
-6. Car Park base model MERGED_P_0_75.png,pass,pass,0.8904,correct
-6. Car Park base model MERGED_P_0_76.png,pass,critical,0.8512,wrong
-6. Car Park base model MERGED_P_0_77.png,pass,critical,0.7716,wrong
-6. Car Park base model MERGED_P_0_78.png,pass,pass,0.9849,correct
-6. Car Park base model MERGED_P_0_79.png,pass,pass,0.6223,correct
-6. Car Park base model MERGED_P_0_8.png,pass,pass,0.9917,correct
-6. Car Park base model MERGED_P_0_80.png,pass,critical,0.5527,wrong
-6. Car Park base model MERGED_P_0_81.png,pass,pass,0.6535,correct
-6. Car Park base model MERGED_P_0_82.png,pass,critical,0.8806,wrong
-6. Car Park base model MERGED_P_0_83.png,pass,critical,0.6928,wrong
-6. Car Park base model MERGED_P_0_84.png,pass,pass,0.9252,correct
-6. Car Park base model MERGED_P_0_85.png,pass,critical,0.5634,wrong
-6. Car Park base model MERGED_P_0_86.png,pass,critical,0.8724,wrong
+6. Car Park base model MERGED_P_0_59.png,pass,critical,0.6444,wrong
+6. Car Park base model MERGED_P_0_6.png,pass,pass,0.7687,correct
+6. Car Park base model MERGED_P_0_60.png,pass,critical,0.7967,wrong
+6. Car Park base model MERGED_P_0_61.png,pass,critical,0.9497,wrong
+6. Car Park base model MERGED_P_0_62.png,pass,pass,0.9950,correct
+6. Car Park base model MERGED_P_0_63.png,pass,critical,0.7949,wrong
+6. Car Park base model MERGED_P_0_64.png,pass,critical,0.7810,wrong
+6. Car Park base model MERGED_P_0_65.png,pass,pass,0.6037,correct
+6. Car Park base model MERGED_P_0_66.png,pass,pass,0.7445,correct
+6. Car Park base model MERGED_P_0_67.png,pass,pass,0.7103,correct
+6. Car Park base model MERGED_P_0_68.png,pass,critical,0.9816,wrong
+6. Car Park base model MERGED_P_0_69.png,pass,critical,0.9395,wrong
+6. Car Park base model MERGED_P_0_7.png,pass,critical,0.9417,wrong
+6. Car Park base model MERGED_P_0_70.png,pass,pass,0.9168,correct
+6. Car Park base model MERGED_P_0_71.png,pass,critical,0.6302,wrong
+6. Car Park base model MERGED_P_0_72.png,pass,critical,0.9034,wrong
+6. Car Park base model MERGED_P_0_73.png,pass,critical,0.6875,wrong
+6. Car Park base model MERGED_P_0_74.png,pass,critical,0.8036,wrong
+6. Car Park base model MERGED_P_0_75.png,pass,pass,0.9020,correct
+6. Car Park base model MERGED_P_0_76.png,pass,critical,0.8500,wrong
+6. Car Park base model MERGED_P_0_77.png,pass,critical,0.7659,wrong
+6. Car Park base model MERGED_P_0_78.png,pass,pass,0.9871,correct
+6. Car Park base model MERGED_P_0_79.png,pass,pass,0.6226,correct
+6. Car Park base model MERGED_P_0_8.png,pass,pass,0.9921,correct
+6. Car Park base model MERGED_P_0_80.png,pass,critical,0.5362,wrong
+6. Car Park base model MERGED_P_0_81.png,pass,pass,0.6858,correct
+6. Car Park base model MERGED_P_0_82.png,pass,critical,0.8794,wrong
+6. Car Park base model MERGED_P_0_83.png,pass,critical,0.6819,wrong
+6. Car Park base model MERGED_P_0_84.png,pass,pass,0.9311,correct
+6. Car Park base model MERGED_P_0_85.png,pass,critical,0.5686,wrong
+6. Car Park base model MERGED_P_0_86.png,pass,critical,0.8585,wrong
 6. Car Park base model MERGED_P_0_87.png,pass,critical,0.9910,wrong
-6. Car Park base model MERGED_P_0_88.png,pass,pass,0.8976,correct
-6. Car Park base model MERGED_P_0_89.png,pass,pass,0.9930,correct
-6. Car Park base model MERGED_P_0_9.png,pass,pass,0.5977,correct
-6. Car Park base model MERGED_P_0_90.png,pass,critical,0.5405,wrong
-6. Car Park base model MERGED_P_0_91.png,pass,pass,0.9942,correct
-6. Car Park base model MERGED_P_0_92.png,pass,critical,0.7922,wrong
-6. Car Park base model MERGED_P_0_93.png,pass,critical,0.7584,wrong
-6. Car Park base model MERGED_P_0_94.png,pass,critical,0.5638,wrong
-6. Car Park base model MERGED_P_0_95.png,pass,pass,0.9968,correct
-6. Car Park base model MERGED_P_0_96.png,pass,critical,0.9835,wrong
-6. Car Park base model MERGED_P_0_97.png,pass,pass,0.7566,correct
-6. Car Park base model MERGED_P_0_98.png,pass,critical,0.9749,wrong
-6. Car Park base model MERGED_P_0_99.png,pass,critical,0.7280,wrong
-8.6.0 - CP 042 MERGED_P_0_1.png,pass,pass,0.9390,correct
-8.6.0 - CP 042 MERGED_P_0_10.png,pass,pass,0.9353,correct
-8.6.0 - CP 042 MERGED_P_0_11.png,pass,pass,0.9825,correct
+6. Car Park base model MERGED_P_0_88.png,pass,pass,0.8979,correct
+6. Car Park base model MERGED_P_0_89.png,pass,pass,0.9931,correct
+6. Car Park base model MERGED_P_0_9.png,pass,pass,0.5918,correct
+6. Car Park base model MERGED_P_0_90.png,pass,critical,0.5019,wrong
+6. Car Park base model MERGED_P_0_91.png,pass,pass,0.9946,correct
+6. Car Park base model MERGED_P_0_92.png,pass,critical,0.7950,wrong
+6. Car Park base model MERGED_P_0_93.png,pass,critical,0.7434,wrong
+6. Car Park base model MERGED_P_0_94.png,pass,critical,0.5409,wrong
+6. Car Park base model MERGED_P_0_95.png,pass,pass,0.9972,correct
+6. Car Park base model MERGED_P_0_96.png,pass,critical,0.9836,wrong
+6. Car Park base model MERGED_P_0_97.png,pass,pass,0.7619,correct
+6. Car Park base model MERGED_P_0_98.png,pass,critical,0.9748,wrong
+6. Car Park base model MERGED_P_0_99.png,pass,critical,0.7071,wrong
+8.6.0 - CP 042 MERGED_P_0_1.png,pass,pass,0.9362,correct
+8.6.0 - CP 042 MERGED_P_0_10.png,pass,pass,0.9325,correct
+8.6.0 - CP 042 MERGED_P_0_11.png,pass,pass,0.9822,correct
 8.6.0 - CP 042 MERGED_P_0_12.png,pass,pass,0.9986,correct
-8.6.0 - CP 042 MERGED_P_0_13.png,pass,pass,0.9500,correct
-8.6.0 - CP 042 MERGED_P_0_14.png,pass,pass,0.9868,correct
-8.6.0 - CP 042 MERGED_P_0_15.png,pass,pass,0.9598,correct
-8.6.0 - CP 042 MERGED_P_0_16.png,pass,pass,0.9660,correct
-8.6.0 - CP 042 MERGED_P_0_17.png,pass,pass,0.9883,correct
-8.6.0 - CP 042 MERGED_P_0_18.png,pass,pass,0.9432,correct
-8.6.0 - CP 042 MERGED_P_0_19.png,pass,pass,0.9914,correct
-8.6.0 - CP 042 MERGED_P_0_2.png,pass,pass,0.9319,correct
-8.6.0 - CP 042 MERGED_P_0_20.png,pass,pass,0.9969,correct
-8.6.0 - CP 042 MERGED_P_0_21.png,pass,pass,0.9185,correct
-8.6.0 - CP 042 MERGED_P_0_22.png,pass,pass,0.8237,correct
-8.6.0 - CP 042 MERGED_P_0_23.png,pass,pass,0.9754,correct
-8.6.0 - CP 042 MERGED_P_0_24.png,pass,pass,0.9860,correct
-8.6.0 - CP 042 MERGED_P_0_25.png,pass,pass,0.9381,correct
-8.6.0 - CP 042 MERGED_P_0_26.png,pass,pass,0.9546,correct
-8.6.0 - CP 042 MERGED_P_0_27.png,pass,pass,0.9956,correct
-8.6.0 - CP 042 MERGED_P_0_28.png,pass,pass,0.9605,correct
+8.6.0 - CP 042 MERGED_P_0_13.png,pass,pass,0.9487,correct
+8.6.0 - CP 042 MERGED_P_0_14.png,pass,pass,0.9866,correct
+8.6.0 - CP 042 MERGED_P_0_15.png,pass,pass,0.9583,correct
+8.6.0 - CP 042 MERGED_P_0_16.png,pass,pass,0.9648,correct
+8.6.0 - CP 042 MERGED_P_0_17.png,pass,pass,0.9879,correct
+8.6.0 - CP 042 MERGED_P_0_18.png,pass,pass,0.9415,correct
+8.6.0 - CP 042 MERGED_P_0_19.png,pass,pass,0.9911,correct
+8.6.0 - CP 042 MERGED_P_0_2.png,pass,pass,0.9305,correct
+8.6.0 - CP 042 MERGED_P_0_20.png,pass,pass,0.9968,correct
+8.6.0 - CP 042 MERGED_P_0_21.png,pass,pass,0.9165,correct
+8.6.0 - CP 042 MERGED_P_0_22.png,pass,pass,0.8200,correct
+8.6.0 - CP 042 MERGED_P_0_23.png,pass,pass,0.9740,correct
+8.6.0 - CP 042 MERGED_P_0_24.png,pass,pass,0.9851,correct
+8.6.0 - CP 042 MERGED_P_0_25.png,pass,pass,0.9377,correct
+8.6.0 - CP 042 MERGED_P_0_26.png,pass,pass,0.9536,correct
+8.6.0 - CP 042 MERGED_P_0_27.png,pass,pass,0.9955,correct
+8.6.0 - CP 042 MERGED_P_0_28.png,pass,pass,0.9596,correct
 8.6.0 - CP 042 MERGED_P_0_29.png,pass,pass,0.9957,correct
-8.6.0 - CP 042 MERGED_P_0_3.png,pass,pass,0.9956,correct
-8.6.0 - CP 042 MERGED_P_0_30.png,pass,pass,0.9836,correct
-8.6.0 - CP 042 MERGED_P_0_31.png,pass,pass,0.8323,correct
-8.6.0 - CP 042 MERGED_P_0_32.png,pass,pass,0.9319,correct
-8.6.0 - CP 042 MERGED_P_0_33.png,pass,pass,0.9931,correct
-8.6.0 - CP 042 MERGED_P_0_34.png,pass,pass,0.9957,correct
-8.6.0 - CP 042 MERGED_P_0_35.png,pass,pass,0.9897,correct
-8.6.0 - CP 042 MERGED_P_0_36.png,pass,pass,0.9464,correct
-8.6.0 - CP 042 MERGED_P_0_37.png,pass,pass,0.9755,correct
-8.6.0 - CP 042 MERGED_P_0_38.png,pass,pass,0.9472,correct
-8.6.0 - CP 042 MERGED_P_0_39.png,pass,pass,0.9814,correct
-8.6.0 - CP 042 MERGED_P_0_4.png,pass,pass,0.7305,correct
-8.6.0 - CP 042 MERGED_P_0_40.png,pass,pass,0.9831,correct
-8.6.0 - CP 042 MERGED_P_0_41.png,pass,pass,0.9706,correct
-8.6.0 - CP 042 MERGED_P_0_42.png,pass,pass,0.9860,correct
-8.6.0 - CP 042 MERGED_P_0_43.png,pass,pass,0.9492,correct
-8.6.0 - CP 042 MERGED_P_0_44.png,pass,pass,0.8714,correct
+8.6.0 - CP 042 MERGED_P_0_3.png,pass,pass,0.9953,correct
+8.6.0 - CP 042 MERGED_P_0_30.png,pass,pass,0.9834,correct
+8.6.0 - CP 042 MERGED_P_0_31.png,pass,pass,0.8273,correct
+8.6.0 - CP 042 MERGED_P_0_32.png,pass,pass,0.9285,correct
+8.6.0 - CP 042 MERGED_P_0_33.png,pass,pass,0.9928,correct
+8.6.0 - CP 042 MERGED_P_0_34.png,pass,pass,0.9955,correct
+8.6.0 - CP 042 MERGED_P_0_35.png,pass,pass,0.9893,correct
+8.6.0 - CP 042 MERGED_P_0_36.png,pass,pass,0.9436,correct
+8.6.0 - CP 042 MERGED_P_0_37.png,pass,pass,0.9731,correct
+8.6.0 - CP 042 MERGED_P_0_38.png,pass,pass,0.9460,correct
+8.6.0 - CP 042 MERGED_P_0_39.png,pass,pass,0.9804,correct
+8.6.0 - CP 042 MERGED_P_0_4.png,pass,pass,0.7239,correct
+8.6.0 - CP 042 MERGED_P_0_40.png,pass,pass,0.9818,correct
+8.6.0 - CP 042 MERGED_P_0_41.png,pass,pass,0.9699,correct
+8.6.0 - CP 042 MERGED_P_0_42.png,pass,pass,0.9854,correct
+8.6.0 - CP 042 MERGED_P_0_43.png,pass,pass,0.9480,correct
+8.6.0 - CP 042 MERGED_P_0_44.png,pass,pass,0.8685,correct
 8.6.0 - CP 042 MERGED_P_0_45.png,pass,pass,0.9987,correct
-8.6.0 - CP 042 MERGED_P_0_46.png,pass,pass,0.9968,correct
-8.6.0 - CP 042 MERGED_P_0_47.png,pass,pass,0.9977,correct
-8.6.0 - CP 042 MERGED_P_0_48.png,pass,pass,0.7915,correct
-8.6.0 - CP 042 MERGED_P_0_49.png,pass,pass,0.9795,correct
-8.6.0 - CP 042 MERGED_P_0_5.png,pass,pass,0.9387,correct
-8.6.0 - CP 042 MERGED_P_0_50.png,pass,pass,0.9933,correct
-8.6.0 - CP 042 MERGED_P_0_51.png,pass,pass,0.9581,correct
-8.6.0 - CP 042 MERGED_P_0_52.png,pass,pass,0.9877,correct
-8.6.0 - CP 042 MERGED_P_0_53.png,pass,pass,0.9956,correct
-8.6.0 - CP 042 MERGED_P_0_54.png,pass,pass,0.9754,correct
-8.6.0 - CP 042 MERGED_P_0_55.png,pass,pass,0.9397,correct
-8.6.0 - CP 042 MERGED_P_0_56.png,pass,pass,0.9972,correct
-8.6.0 - CP 042 MERGED_P_0_57.png,pass,pass,0.8877,correct
-8.6.0 - CP 042 MERGED_P_0_58.png,pass,pass,0.9958,correct
-8.6.0 - CP 042 MERGED_P_0_59.png,pass,pass,0.9892,correct
-8.6.0 - CP 042 MERGED_P_0_6.png,pass,pass,0.9528,correct
-8.6.0 - CP 042 MERGED_P_0_60.png,pass,pass,0.9862,correct
-8.6.0 - CP 042 MERGED_P_0_61.png,pass,pass,0.9964,correct
-8.6.0 - CP 042 MERGED_P_0_62.png,pass,pass,0.9599,correct
-8.6.0 - CP 042 MERGED_P_0_63.png,pass,pass,0.9386,correct
-8.6.0 - CP 042 MERGED_P_0_64.png,pass,pass,0.9957,correct
-8.6.0 - CP 042 MERGED_P_0_65.png,pass,pass,0.9641,correct
-8.6.0 - CP 042 MERGED_P_0_66.png,pass,pass,0.9838,correct
-8.6.0 - CP 042 MERGED_P_0_67.png,pass,pass,0.9890,correct
-8.6.0 - CP 042 MERGED_P_0_68.png,pass,pass,0.9317,correct
-8.6.0 - CP 042 MERGED_P_0_69.png,pass,pass,0.9727,correct
-8.6.0 - CP 042 MERGED_P_0_7.png,pass,pass,0.9039,correct
-8.6.0 - CP 042 MERGED_P_0_70.png,pass,pass,0.9747,correct
-8.6.0 - CP 042 MERGED_P_0_71.png,pass,pass,0.9429,correct
+8.6.0 - CP 042 MERGED_P_0_46.png,pass,pass,0.9967,correct
+8.6.0 - CP 042 MERGED_P_0_47.png,pass,pass,0.9976,correct
+8.6.0 - CP 042 MERGED_P_0_48.png,pass,pass,0.7893,correct
+8.6.0 - CP 042 MERGED_P_0_49.png,pass,pass,0.9784,correct
+8.6.0 - CP 042 MERGED_P_0_5.png,pass,pass,0.9359,correct
+8.6.0 - CP 042 MERGED_P_0_50.png,pass,pass,0.9931,correct
+8.6.0 - CP 042 MERGED_P_0_51.png,pass,pass,0.9599,correct
+8.6.0 - CP 042 MERGED_P_0_52.png,pass,pass,0.9873,correct
+8.6.0 - CP 042 MERGED_P_0_53.png,pass,pass,0.9953,correct
+8.6.0 - CP 042 MERGED_P_0_54.png,pass,pass,0.9741,correct
+8.6.0 - CP 042 MERGED_P_0_55.png,pass,pass,0.9373,correct
+8.6.0 - CP 042 MERGED_P_0_56.png,pass,pass,0.9971,correct
+8.6.0 - CP 042 MERGED_P_0_57.png,pass,pass,0.8845,correct
+8.6.0 - CP 042 MERGED_P_0_58.png,pass,pass,0.9956,correct
+8.6.0 - CP 042 MERGED_P_0_59.png,pass,pass,0.9890,correct
+8.6.0 - CP 042 MERGED_P_0_6.png,pass,pass,0.9517,correct
+8.6.0 - CP 042 MERGED_P_0_60.png,pass,pass,0.9855,correct
+8.6.0 - CP 042 MERGED_P_0_61.png,pass,pass,0.9963,correct
+8.6.0 - CP 042 MERGED_P_0_62.png,pass,pass,0.9587,correct
+8.6.0 - CP 042 MERGED_P_0_63.png,pass,pass,0.9382,correct
+8.6.0 - CP 042 MERGED_P_0_64.png,pass,pass,0.9955,correct
+8.6.0 - CP 042 MERGED_P_0_65.png,pass,pass,0.9623,correct
+8.6.0 - CP 042 MERGED_P_0_66.png,pass,pass,0.9825,correct
+8.6.0 - CP 042 MERGED_P_0_67.png,pass,pass,0.9882,correct
+8.6.0 - CP 042 MERGED_P_0_68.png,pass,pass,0.9303,correct
+8.6.0 - CP 042 MERGED_P_0_69.png,pass,pass,0.9725,correct
+8.6.0 - CP 042 MERGED_P_0_7.png,pass,pass,0.9026,correct
+8.6.0 - CP 042 MERGED_P_0_70.png,pass,pass,0.9742,correct
+8.6.0 - CP 042 MERGED_P_0_71.png,pass,pass,0.9407,correct
 8.6.0 - CP 042 MERGED_P_0_72.png,pass,pass,0.9989,correct
-8.6.0 - CP 042 MERGED_P_0_73.png,pass,pass,0.9860,correct
-8.6.0 - CP 042 MERGED_P_0_74.png,pass,pass,0.9471,correct
-8.6.0 - CP 042 MERGED_P_0_75.png,pass,pass,0.9778,correct
-8.6.0 - CP 042 MERGED_P_0_76.png,pass,pass,0.9375,correct
-8.6.0 - CP 042 MERGED_P_0_77.png,pass,pass,0.9893,correct
-8.6.0 - CP 042 MERGED_P_0_78.png,pass,pass,0.9863,correct
-8.6.0 - CP 042 MERGED_P_0_79.png,pass,pass,0.9707,correct
-8.6.0 - CP 042 MERGED_P_0_8.png,pass,pass,0.9586,correct
-8.6.0 - CP 042 MERGED_P_0_80.png,pass,pass,0.9874,correct
-8.6.0 - CP 042 MERGED_P_0_9.png,pass,pass,0.9647,correct
+8.6.0 - CP 042 MERGED_P_0_73.png,pass,pass,0.9855,correct
+8.6.0 - CP 042 MERGED_P_0_74.png,pass,pass,0.9438,correct
+8.6.0 - CP 042 MERGED_P_0_75.png,pass,pass,0.9768,correct
+8.6.0 - CP 042 MERGED_P_0_76.png,pass,pass,0.9343,correct
+8.6.0 - CP 042 MERGED_P_0_77.png,pass,pass,0.9887,correct
+8.6.0 - CP 042 MERGED_P_0_78.png,pass,pass,0.9851,correct
+8.6.0 - CP 042 MERGED_P_0_79.png,pass,pass,0.9690,correct
+8.6.0 - CP 042 MERGED_P_0_8.png,pass,pass,0.9564,correct
+8.6.0 - CP 042 MERGED_P_0_80.png,pass,pass,0.9867,correct
+8.6.0 - CP 042 MERGED_P_0_9.png,pass,pass,0.9627,correct
