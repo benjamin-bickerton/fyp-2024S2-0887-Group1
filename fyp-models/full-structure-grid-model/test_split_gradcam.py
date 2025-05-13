@@ -148,8 +148,8 @@ def test_model(test_dir, model_path="./save_weights/best_model.pth", save_dir="r
 
 if __name__ == "__main__":
     # 修改路径为你的实际测试集路径
-    test_dir = "dataset/test_and_val"
+    test_dir = "dataset/test"
     model_path = "./save_weights/best_model.pth"
-    save_dir = "test_result_when_only360images"
+    save_dir = "test_result_when_only120images"
 
     test_model(test_dir, model_path=model_path, save_dir=save_dir)
