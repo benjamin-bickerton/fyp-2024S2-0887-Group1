@@ -61,3 +61,10 @@ def test_model(test_dir, model_path="./save_weights/best_model.pth"):
     acc, precision, recall, f1 = compute_metrics(labels_all, preds_all)
     print(f"Test Results:\nAccuracy={acc:.4f}, Precision={precision:.4f}, Recall={recall:.4f}, F1 Score={f1:.4f}")
     plot_confusion_matrix(labels_all, preds_all, class_names)
+
+if __name__ == "__main__":
+    # Change the path to your actual test set path
+    test_dir = "dataset/test_and_val"
+    model_path = "./save_weights/best_model.pth"
+
+    test_model(test_dir, model_path=model_path)

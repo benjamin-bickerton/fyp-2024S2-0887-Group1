@@ -147,7 +147,7 @@ def test_model(test_dir, model_path="./save_weights/best_model.pth", save_dir="r
     print(f"Test Results:\nAccuracy={acc:.4f}, Precision={precision:.4f}, Recall={recall:.4f}, F1 Score={f1:.4f}")
 
 if __name__ == "__main__":
-    # 修改路径为你的实际测试集路径
+    # Change the path to your actual test set path
     test_dir = "dataset/test"
     model_path = "./save_weights/best_model.pth"
     save_dir = "test_result_when_only120images"
