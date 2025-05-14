@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 import imgaug.augmenters as iaa
 
-# 1. 预处理函数（缩小并留白防止旋转时裁切）
 def preprocess_image(image_np, scale_factor):
     new_height, new_width = int(image_np.shape[0] * scale_factor), int(image_np.shape[1] * scale_factor)
     resized_image = cv2.resize(image_np, (new_width, new_height), interpolation=cv2.INTER_AREA)
@@ -16,7 +15,6 @@ def preprocess_image(image_np, scale_factor):
     )
     return padded_image
 
-# 2. 增强函数（只保留旋转 + 高斯模糊）
 def augment_image(image_np, num_augments, rotate, gaussian):
     seq = iaa.Sequential([
         iaa.Affine(rotate=rotate),
@@ -24,7 +22,6 @@ def augment_image(image_np, num_augments, rotate, gaussian):
     ])
     return [seq(image=image_np) for _ in range(num_augments)]
 
-# 3. 处理一个单独文件夹
 def process_single_folder(input_subfolder, output_subfolder, parent_folder_name,
                           num_augments, scale_factor, rotate, gaussian):
     if not os.path.exists(output_subfolder):
@@ -44,7 +41,6 @@ def process_single_folder(input_subfolder, output_subfolder, parent_folder_name,
                 output_path = os.path.join(output_subfolder, output_filename)
                 Image.fromarray(aug_image).save(output_path)
 
-# 4. 遍历总输入文件夹
 def process_all_folders(input_folder, output_folder, num_augments, scale_factor, rotate, gaussian):
     for subfolder_name in os.listdir(input_folder):
         subfolder_path = os.path.join(input_folder, subfolder_name)
