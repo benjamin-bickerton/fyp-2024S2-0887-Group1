@@ -66,7 +66,6 @@ def process_all_folders(parent_input_folder, parent_output_folder, num_augments,
                 save_path = os.path.join(output_path, f"{folder_name}_{i}_{j+1}.png")
                 Image.fromarray(merged).save(save_path)
 
-# ========== 可调参数 ==========
 
 parent_input_folder = r'C:\Users\20818\OneDrive\Desktop\CIV 4701&4702\More Dataset\FYP_B\Augmentation\Dataset_Ground Floor\9\9_Input'
 parent_output_folder = r'C:\Users\20818\OneDrive\Desktop\CIV 4701&4702\More Dataset\FYP_B\Augmentation\Dataset_Ground Floor\9\9_Ground Floor Augmentation Dataset'
