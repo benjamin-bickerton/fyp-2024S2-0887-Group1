@@ -29,7 +29,7 @@ def plot_confusion_matrix(y_true, y_pred, class_names):
     plt.tight_layout()
     plt.show()
 
-def test_model(test_dir, model_path="./save_weights/best_model.pth"):
+def test_model(test_dir, model_path="./save_weights/best_axial_model.pth"):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     transform = transforms.Compose([
