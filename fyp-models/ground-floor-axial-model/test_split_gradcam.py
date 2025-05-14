@@ -148,8 +148,8 @@ def test_model(test_dir, model_path="./save_weights/best_model.pth", save_dir="r
 
 if __name__ == "__main__":
     # Change the path to your actual test set path
-    test_dir = "dataset/test_and_val"
+    test_dir = "dataset/test"
     model_path = "./save_weights/best_model.pth"
-    save_dir = "test_results_when_only300images"
+    save_dir = "test_results_with_190images"
 
     test_model(test_dir, model_path=model_path, save_dir=save_dir)

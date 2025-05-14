@@ -33,7 +33,7 @@ def plot_confusion_matrix(y_true, y_pred, class_names):
     plt.tight_layout()
     plt.show()
 
-def train_model(train_dir, val_dir, model_path="./save_weights/best_model.pth", epochs=25, batch_size=32, patience=100):
+def train_model(train_dir, val_dir, model_path="./save_weights/best_axial_model.pth", epochs=25, batch_size=32, patience=100):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device)
     transform = transforms.Compose([
